@@ -1,0 +1,4 @@
+# Apart from the traditional ORACLE_BASE and ORACLE_HOME directories, the following directories contain files that used to be in ORACLE_HOME:
+ORACLE_BASE_HOME
+ORACLE_BASE_CONFIG
+
